@@ -1,7 +1,7 @@
 # Poker-unter-mathematischen-Lupe
 
-Hier befinden sich alle Tabellen, welche für die Maturaarbeit verwendet worden sind. Die Excel Tabellen beinhalten alle Formeln und Rechenwege.
+Hier befinden sich alle Excel Tabellen, welche für die Maturaarbeit verwendet worden sind. Die Excel Tabellen beinhalten alle vollständigen Rechenwege.
 
 Freundliche Grüsse
 
-Tim
+Tim Stulz
